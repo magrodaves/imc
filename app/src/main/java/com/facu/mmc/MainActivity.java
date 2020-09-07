@@ -33,16 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void calcular (View view) {
 
-        /*String baseStr = edtBase.getText().toString();
-        String alturaStr = edtAltura.getText().toString();
-
-        Integer base = Integer.valueOf(baseStr);
-        Integer altura = Integer.valueOf(alturaStr);
-
-        Integer area = base * altura;
-
-        txvResultado.setText(area.toString());*/
-
         String alturaStr = edtAltura.getText().toString();
         String pesoStr = edtPeso.getText().toString();
 
